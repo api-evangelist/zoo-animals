@@ -1,0 +1,32 @@
+aid: zoo-animals
+name: Zoo Animals
+description: "Facts and pictures of zoo animals"
+url: https://zoo-animal-api.herokuapp.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Animals"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Animals
+  - Public APIs
+apis:
+  - name: Zoo Animals
+    description: "Facts and pictures of zoo animals"
+    humanURL: https://zoo-animal-api.herokuapp.com/
+    baseURL: https://zoo-animal-api.herokuapp.com/
+    tags:
+      - Animals
+    properties:
+      - type: Documentation
+        url: https://zoo-animal-api.herokuapp.com/
+common:
+  - type: Website
+    url: https://zoo-animal-api.herokuapp.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
