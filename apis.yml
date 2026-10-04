@@ -39,7 +39,6 @@ apis:
   - name: Zoo Animals
     description: "Facts and pictures of zoo animals"
     humanURL: https://zoo-animal-api.herokuapp.com/
-    baseURL: https://zoo-animal-api.herokuapp.com/
     tags:
       - Animals
     properties:
