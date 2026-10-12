@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "zoo-animals",
+    "captured_at": "2026-10-11T195135",
+    "source_url": "https://zoo-animal-api.herokuapp.com/",
+    "source_type": "Website",
+    "file": "zoo-animals-2026-10-11T195135.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
